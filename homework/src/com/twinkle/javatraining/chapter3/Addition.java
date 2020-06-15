@@ -2,20 +2,23 @@ package com.twinkle.javatraining.chapter3;
 
 import java.util.Scanner;
 
-public class AdditionU {
+public class Addition {
 	public static void main(String[] args) {
 		
-		long num = readUserIntInput("Enter num: ");
-		long sum = ++num ;
+		//Enter two numbers
+		int num1 = readUserIntInput("Enter num1: ");
+		int num2 = readUserIntInput("Enter num2: ");
+		//Add two numbers
+		int sum = num1 + num2;
+		//Print the result
 		System.out.println("Sum: " + sum);
 
 	}
 
-	public static long readUserIntInput(String aInputMsg) {
+	public static int readUserIntInput(String aInputMsg) {
 		System.out.print(aInputMsg + " ");
 		Scanner scanner = new Scanner(System.in);
 		return scanner.nextInt();
 
 	}
 }
-

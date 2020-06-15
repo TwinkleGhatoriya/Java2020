@@ -1,4 +1,4 @@
-package com.twinkle.javatraining.chapter3;
+package com.twinkle.chapter3;
 
 public class Boolean {
 

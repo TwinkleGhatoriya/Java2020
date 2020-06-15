@@ -1,4 +1,4 @@
-package day2;
+package com.twinkle.chapter2;
 
 public class practicecomments {
 	public static void main (String [] args) {

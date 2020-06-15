@@ -1,4 +1,4 @@
-package day2;
+package com.twinkle.chapter2;
 
 public class Homework2_2 {
 	public static void add (float P_VALUE, int numberOne, int numberTwo) {

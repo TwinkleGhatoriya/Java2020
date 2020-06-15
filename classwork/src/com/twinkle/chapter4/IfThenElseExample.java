@@ -1,4 +1,4 @@
-package chapter4;
+package com.twinkle.chapter4;
 
 public class IfThenElseExample {
 	public static void main(String[] args) {
