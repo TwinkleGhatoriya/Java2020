@@ -1,4 +1,4 @@
-package day2;
+package com.twinkle.chapter2;
 
 public class Homework2_1 {
 	
