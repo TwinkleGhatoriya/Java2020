@@ -1,4 +1,4 @@
-package com.twinkle.java;
+package com.twinkle.chapter1;
 
 public class HelloWorld {
 	
